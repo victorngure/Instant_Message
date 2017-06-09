@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606286669505",
+    "firebase_url": "https://fast-messaging.firebaseio.com",
+    "project_id": "fast-messaging",
+    "storage_bucket": "fast-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606286669505:android:515779d173ed03ab",
+        "android_client_info": {
+          "package_name": "com.example.linda.instant_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606286669505-dp8gf190m8c71j9ve7heu3725dbs81bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISltWI53MhfRatlIqxTwM8af-i49F_eI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
